@@ -1,4 +1,6 @@
 ## Elastic Block Storage (EBS)
+'''
+Amazon Elastic Block Storage is highly scable
 
   ### Types of Storages:
 
